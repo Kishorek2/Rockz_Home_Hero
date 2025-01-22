@@ -9826,6 +9826,25 @@ input[type="checkbox"]#Selectallservices {
   .cs-height_lg_80 {
     height: 50px;
   }
+
+.logo{
+    width:40px;
+    height: auto;
+  }
+  .rockz{
+    display: none !important;
+  }
+  .new-logo{
+    width:40px;
+    height: auto;
+  }
+   .new-rockz{
+    display: none;
+  }
+  .footer-tagline{
+    color: #ffffff;
+    margin-left: 8px;
+  }
 }
 
 @media (max-width: 576px) {
@@ -9844,6 +9863,25 @@ input[type="checkbox"]#Selectallservices {
 
   .R{
     width: 11%;;
+  }
+
+  .logo{
+    width:40px;
+    height: auto;
+  }
+  .rockz{
+    display: none !important;
+  }
+  .new-logo{
+    width:40px;
+    height: auto;
+  }
+   .new-rockz{
+    display: none;
+  }
+  .footer-tagline{
+    color: #ffffff;
+    margin-left: 8px;
   }
   
 }
